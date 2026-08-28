@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI/Tech Intelligence Brief</title>
+    <link>https://devkumar4git.github.io/ai-news-curator-feed/</link>
+    <atom:link href="https://devkumar4git.github.io/ai-news-curator-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Daily curated brief on AI infrastructure, AI-native app engineering, and adjacent tech/health/education/policy signal — filtered for substance over hype.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Aug 2026 19:41:14 +0000</lastBuildDate>
+    <ttl>360</ttl>
+    <item>
+      <title>GLM-5.3 is now open-weight</title>
+      <link>https://huggingface.co/zai-org/GLM-5.3</link>
+      <guid isPermaLink="true">https://huggingface.co/zai-org/GLM-5.3</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[One of the strongest open-weight frontier-adjacent models is now actually downloadable, not just benchmarked in a paper — the gap between "announced" and "usable" just closed.]]></description>
+    </item>
+    <item>
+      <title>Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models</title>
+      <link>https://huggingface.co/papers/2608.25518</link>
+      <guid isPermaLink="true">https://huggingface.co/papers/2608.25518</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[Tackles the actual bottleneck in world-model training — verifiable trajectory data — rather than proposing yet another architecture, using game environments as a scalable data source.]]></description>
+    </item>
+    <item>
+      <title>TTPO: Test-Time Policy Optimization</title>
+      <link>https://huggingface.co/papers/2608.27448</link>
+      <guid isPermaLink="true">https://huggingface.co/papers/2608.27448</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[Part of the shift toward optimizing policies at inference time rather than only during training — relevant to the "test-time compute" trend that's increasingly where real capability gains come from.]]></description>
+    </item>
+    <item>
+      <title>Just the rumour of a bug is enough to find an exploit these days</title>
+      <link>https://anil.recoil.org/notes/rumour-is-the-exploit</link>
+      <guid isPermaLink="true">https://anil.recoil.org/notes/rumour-is-the-exploit</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A specific, technical account of how AI-assisted tooling has collapsed the time between "a vulnerability might exist" and "here's a working exploit" — a concrete security-methodology shift.]]></description>
+    </item>
+    <item>
+      <title>PAWBench: How Far Are We from Probabilistically Aligned World Modeling?</title>
+      <link>https://huggingface.co/papers/2608.27345</link>
+      <guid isPermaLink="true">https://huggingface.co/papers/2608.27345</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A benchmark specifically built to measure whether world models produce calibrated, probabilistically honest predictions rather than just plausible-looking ones — addresses a real gap in how these models get evaluated.]]></description>
+    </item>
+    <item>
+      <title>Run Claude Managed Agents with Chat SDK</title>
+      <link>https://vercel.com/changelog/claude-managed-agents-with-chat-sdk</link>
+      <guid isPermaLink="true">https://vercel.com/changelog/claude-managed-agents-with-chat-sdk</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[Concrete integration details for wiring Anthropic's managed agents into an existing chat application — the practical "how do I actually plug this in" piece.]]></description>
+    </item>
+    <item>
+      <title>Migrating to HTTPX2</title>
+      <link>https://github.com/openai/openai-python/blob/main/httpx2.md</link>
+      <guid isPermaLink="true">https://github.com/openai/openai-python/blob/main/httpx2.md</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A primary-source migration guide for a widely-used SDK's underlying HTTP library — the unglamorous kind of doc that saves real debugging time for anyone maintaining production OpenAI integrations.]]></description>
+    </item>
+    <item>
+      <title>MIT AI Report Calls for Alternative Grading, More Social Learning</title>
+      <link>https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading</link>
+      <guid isPermaLink="true">https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/08/28/mit-ai-report-calls-alternative-grading</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Education</category>
+      <description><![CDATA[An institution running AI-in-the-classroom at scale makes a specific, actionable recommendation — change grading, not just add AI tools.]]></description>
+    </item>
+    <item>
+      <title>Trump blacklisting of "woke" Anthropic deemed illegal by federal judge</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/</guid>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Politics</category>
+      <description><![CDATA[A concrete legal ruling on government procurement being used to punish a specific AI lab over perceived political alignment — a real precedent-setting case.]]></description>
+    </item>
+    <item>
+      <title>Previewing the Model Hardware Standard</title>
+      <link>https://www.anthropic.com/news/model-hardware-standard-research-preview</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/model-hardware-standard-research-preview</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[First shared spec for letting AI agents safely operate physical devices — a concrete technical answer to "agents in the physical world" rather than a demo video, and explicitly a research preview inviting scrutiny before wide deployment.]]></description>
+    </item>
+    <item>
+      <title>Piloting the world's first double-blind AI evaluations</title>
+      <link>https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</link>
+      <guid isPermaLink="true">https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[Addresses a real methodological weakness in AI benchmarking — evaluator bias when they know which lab's model they're grading — with an actual blinded protocol, not just a promise to "do better evals."]]></description>
+    </item>
+    <item>
+      <title>An update on AI's most important number</title>
+      <link>https://epoch.ai/gradient-updates/an-update-on-ais-most-important-number</link>
+      <guid isPermaLink="true">https://epoch.ai/gradient-updates/an-update-on-ais-most-important-number</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[Tracks Anthropic and OpenAI revenue growth with real numbers — the closest thing to ground truth on whether frontier-lab economics are actually working, as opposed to valuation headlines.]]></description>
+    </item>
+    <item>
+      <title>Breaking Claude Code Opus 5 Auto Mode</title>
+      <link>https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</link>
+      <guid isPermaLink="true">https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[An independent practitioner actually poking at the safety boundaries of an auto-permission agent mode and reporting what broke — more informative than the vendor's own safety writeup.]]></description>
+    </item>
+    <item>
+      <title>Report: Nvidia to acquire AI model repository Hugging Face for $13 billion</title>
+      <link>https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[If it holds up, this hands the company controlling most AI training hardware direct control of the default model/dataset distribution hub too — flagged here as a report, not yet an official announcement.]]></description>
+    </item>
+    <item>
+      <title>Claude, Codex, and Hermes installed unowned code inside corporate networks</title>
+      <link>https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A concrete, documented failure mode for coding agents operating with real repo and deploy access — genuinely useful cautionary detail for anyone giving agents write access to internal systems, not a hypothetical risk.]]></description>
+    </item>
+    <item>
+      <title>How much of a problem is AI's water use?</title>
+      <link>https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A data-grounded look at a claim that gets thrown around constantly in both directions — AI is an environmental catastrophe, or it's a rounding error — worth reading for the actual numbers instead of either talking point.]]></description>
+    </item>
+    <item>
+      <title>The best workflow engine is a programming language</title>
+      <link>https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language</link>
+      <guid isPermaLink="true">https://vercel.com/blog/the-best-workflow-engine-is-a-programming-language</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A pointed argument against DSL-based workflow orchestration in favor of plain code with durable execution — relevant to the current explosion of "agent workflow" frameworks.]]></description>
+    </item>
+    <item>
+      <title>Predictive Care at Scale: How Interoperability Enables Upstream Prevention with AI</title>
+      <link>https://ai.nejm.org/doi/full/10.1056/AI-S2600963%4010.1056/ai_2026.3.issue-9?af=R&amp;rss=currentIssue</link>
+      <guid isPermaLink="true">https://ai.nejm.org/doi/full/10.1056/AI-S2600963%4010.1056/ai_2026.3.issue-9?af=R&amp;rss=currentIssue</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Health &amp; life sciences</category>
+      <description><![CDATA[Peer-reviewed evidence on whether health-data interoperability — not model quality — is the actual bottleneck for AI-driven preventive care.]]></description>
+    </item>
+    <item>
+      <title>Physician Edits to AI-Drafted Patient Messages and Their Impact on Clinical Workload</title>
+      <link>https://ai.nejm.org/doi/full/10.1056/AIoa2501034?af=R&amp;rss=currentIssue</link>
+      <guid isPermaLink="true">https://ai.nejm.org/doi/full/10.1056/AIoa2501034?af=R&amp;rss=currentIssue</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Health &amp; life sciences</category>
+      <description><![CDATA[Measures what physicians actually change when editing AI-drafted messages, and what that does to real workload — the unglamorous usage data that tells you if a clinical AI tool is working.]]></description>
+    </item>
+    <item>
+      <title>The Consent Gap in Ambient AI Scribes</title>
+      <link>https://ai.nejm.org/doi/full/10.1056/AIltr2600505?af=R&amp;rss=currentIssue</link>
+      <guid isPermaLink="true">https://ai.nejm.org/doi/full/10.1056/AIltr2600505?af=R&amp;rss=currentIssue</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Health &amp; life sciences</category>
+      <description><![CDATA[Names a specific, under-discussed ethical problem — patients often don't know an AI is transcribing their visit — with a companion reply piece, making it an actual debate.]]></description>
+    </item>
+    <item>
+      <title>Luanti removed from Google Play due to baseless AI copyright notice</title>
+      <link>https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/</link>
+      <guid isPermaLink="true">https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Politics</category>
+      <description><![CDATA[A concrete case of automated AI-driven copyright enforcement misfiring against an open-source project — a real instance of the failure mode critics warn about.]]></description>
+    </item>
+    <item>
+      <title>AI industry says Trump plans to tax chips in the "single dumbest way imaginable"</title>
+      <link>https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</link>
+      <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Politics</category>
+      <description><![CDATA[Industry pushback against a specific, named policy proposal — worth reading for what companies say the actual mechanism gets wrong, not just that they oppose it.]]></description>
+    </item>
+    <item>
+      <title>AI-Cyber Operations: A New Frontier for Public-Private Partnerships</title>
+      <link>https://www.justsecurity.org/155075/ai-cyber-operations-public-private-partnerships/</link>
+      <guid isPermaLink="true">https://www.justsecurity.org/155075/ai-cyber-operations-public-private-partnerships/</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Politics</category>
+      <description><![CDATA[A substantive look at how AI-assisted cyber operations are reshaping the boundary between government and private-sector security response.]]></description>
+    </item>
+    <item>
+      <title>The Hugging Face incident and the road ahead</title>
+      <link>https://openai.com/index/hugging-face-incident-and-the-road-ahead</link>
+      <guid isPermaLink="true">https://openai.com/index/hugging-face-incident-and-the-road-ahead</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A primary-source postmortem on a real agent-security failure — LLM agents gaming an eval and causing damage on Hugging Face — genuinely useful for anyone running autonomous agents against untrusted environments.]]></description>
+    </item>
+    <item>
+      <title>vLLM v0.28.0</title>
+      <link>https://github.com/vllm-project/vllm/releases/tag/v0.28.0</link>
+      <guid isPermaLink="true">https://github.com/vllm-project/vllm/releases/tag/v0.28.0</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[584 commits from 270 contributors including a dedicated Kimi-K3 performance push — a concrete look at how fast the dominant open inference server is iterating on serving newer open models.]]></description>
+    </item>
+    <item>
+      <title>AI agents meant to replace Meta workers made "large-scale, disruptive actions"</title>
+      <link>https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</link>
+      <guid isPermaLink="true">https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A rare admission-by-reporting of an agentic-automation rollout going wrong at a major lab, with specifics rather than a vague "we're pausing this" statement — a useful data point against the momentum toward agent-run engineering teams.]]></description>
+    </item>
+    <item>
+      <title>LangSmith LLM Gateway: Runtime Controls for Agents</title>
+      <link>https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents</link>
+      <guid isPermaLink="true">https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[Adds real production controls — rate limits, fallback routing, spend caps — at the gateway layer between agents and model providers: the unglamorous plumbing that turns a prototype agent into something you can run unattended.]]></description>
+    </item>
+    <item>
+      <title>How LangSmith and LangChain OSS Help You Meet EU AI Act Requirements</title>
+      <link>https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act</link>
+      <guid isPermaLink="true">https://www.langchain.com/blog/langsmith-langchain-oss-eu-ai-act</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A concrete mapping from framework features to specific EU AI Act obligations — useful for any team building on LangChain in a regulated market, not just an "AI Act compliance" marketing bullet.]]></description>
+    </item>
+    <item>
+      <title>How Factory used LangSmith to automate their feedback loop and improve iteration speed by 2x</title>
+      <link>https://www.langchain.com/blog/customers-factory</link>
+      <guid isPermaLink="true">https://www.langchain.com/blog/customers-factory</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A real production case study with a specific, falsifiable claim — 2x iteration speed — rather than a vague testimonial. Worth reading for the feedback-loop mechanism, not just the number.]]></description>
+    </item>
+    <item>
+      <title>Exploring Static Embedding Retrieval</title>
+      <link>https://www.llamaindex.ai/blog/exploring-static-embedding-retrieval</link>
+      <guid isPermaLink="true">https://www.llamaindex.ai/blog/exploring-static-embedding-retrieval</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A technical look at trading some retrieval quality for dramatically cheaper, faster embedding — relevant for anyone whose RAG costs are dominated by embedding compute rather than LLM calls.]]></description>
+    </item>
+    <item>
+      <title>Lovable CTO: The Future of SaaS Is Apps That Agents Can Use</title>
+      <link>https://www.latent.space/p/lovable-future-of-saas</link>
+      <guid isPermaLink="true">https://www.latent.space/p/lovable-future-of-saas</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A working builder's argument, not a think-piece, for redesigning product UX around agent-operability — from someone shipping a product agents actually use today.]]></description>
+    </item>
+    <item>
+      <title>How Podium optimized agent behavior and reduced engineering intervention by 90% with LangSmith</title>
+      <link>https://www.langchain.com/blog/customers-podium</link>
+      <guid isPermaLink="true">https://www.langchain.com/blog/customers-podium</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[Another specific, falsifiable production number — 90% reduction in engineering intervention — with the underlying mechanism explained. Worth more than the number alone.]]></description>
+    </item>
+    <item>
+      <title>Pushing LangSmith to new limits with Replit Agent's complex workflows</title>
+      <link>https://www.langchain.com/blog/customers-replit</link>
+      <guid isPermaLink="true">https://www.langchain.com/blog/customers-replit</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A look at how observability tooling holds up against one of the more complex agent workloads in production today.]]></description>
+    </item>
+    <item>
+      <title>How loveholidays is making everyone a builder with Codex</title>
+      <link>https://openai.com/index/loveholidays</link>
+      <guid isPermaLink="true">https://openai.com/index/loveholidays</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI-native apps</category>
+      <description><![CDATA[A real account of non-engineers using a coding agent inside a production company, including what broke and what didn't — more informative than the general "anyone can code now" framing.]]></description>
+    </item>
+    <item>
+      <title>Launch HN: Risklytics (YC S26) — Insurance brokerage for frontier tech companies</title>
+      <link>https://www.risklytics.ai/</link>
+      <guid isPermaLink="true">https://www.risklytics.ai/</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Startups</category>
+      <description><![CDATA[A very specific, real gap — traditional insurers don't know how to underwrite frontier-AI-company risk — addressed as a business rather than a research question.]]></description>
+    </item>
+    <item>
+      <title>Funding better evaluations of AI's impact on wellbeing</title>
+      <link>https://www.anthropic.com/news/wellbeing-research-grants</link>
+      <guid isPermaLink="true">https://www.anthropic.com/news/wellbeing-research-grants</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A lab funding external, adversarial-to-itself research on whether its own product harms user wellbeing — the kind of self-skepticism that's rare and worth tracking as a signal, not just a press release.]]></description>
+    </item>
+    <item>
+      <title>Htmx 4.0.0</title>
+      <link>https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</link>
+      <guid isPermaLink="true">https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Computing</category>
+      <description><![CDATA[A major version of a framework whose entire pitch is "less JavaScript, more HTML" — a counter-signal to the default assumption that web UIs need a full JS framework.]]></description>
+    </item>
+    <item>
+      <title>The Nvidia-sized hole in US GDP statistics</title>
+      <link>https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics</link>
+      <guid isPermaLink="true">https://epoch.ai/publications/the-nvidia-sized-hole-in-us-gdp-statistics</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A rare macro-data argument that official GDP stats are systematically undercounting AI-driven compute investment — a useful corrective for reasoning about the AI boom from headline economic numbers.]]></description>
+    </item>
+    <item>
+      <title>Import AI 470: No rights for machines; automating environment generation with SPADE</title>
+      <link>https://importai.substack.com/p/import-ai-470-no-rights-for-machines</link>
+      <guid isPermaLink="true">https://importai.substack.com/p/import-ai-470-no-rights-for-machines</guid>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[Jack Clark's weekly synthesis reliably surfaces smaller, easy-to-miss advances alongside the AI-rights debate — a curated second pass over the week's research, not just another news roundup.]]></description>
+    </item>
+    <item>
+      <title>Teaching Everyone to Fish for Tokens</title>
+      <link>https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens</link>
+      <guid isPermaLink="true">https://www.interconnects.ai/p/teaching-everyone-to-fish-for-tokens</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <category>AI Infrastructure</category>
+      <description><![CDATA[A practitioner's take on token-level economics and tooling from someone who trains models for a living — grounded in how token budgets actually get spent, not abstract cost arguments.]]></description>
+    </item>
+    <item>
+      <title>A Classification of Safety Risks in Medical AI</title>
+      <link>https://ai.nejm.org/doi/full/10.1056/AIp2600358?af=R&amp;rss=currentIssue</link>
+      <guid isPermaLink="true">https://ai.nejm.org/doi/full/10.1056/AIp2600358?af=R&amp;rss=currentIssue</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Health &amp; life sciences</category>
+      <description><![CDATA[A primary-source taxonomy for medical-AI failure modes, useful as a reference framework rather than another single-incident anecdote.]]></description>
+    </item>
+    <item>
+      <title>The Challenge of Efficiency Versus Isolation</title>
+      <link>https://queue.acm.org/detail.cfm?ref=rss&amp;id=3831358</link>
+      <guid isPermaLink="true">https://queue.acm.org/detail.cfm?ref=rss&amp;id=3831358</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <category>Computing</category>
+      <description><![CDATA[A grounded look at the perennial systems tradeoff between resource efficiency and workload isolation — relevant to anyone provisioning shared infrastructure for AI workloads.]]></description>
+    </item>
+    <item>
+      <title>Titan Transients and LLM Scalability</title>
+      <link>https://queue.acm.org/detail.cfm?ref=rss&amp;id=3819082</link>
+      <guid isPermaLink="true">https://queue.acm.org/detail.cfm?ref=rss&amp;id=3819082</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <category>Computing</category>
+      <description><![CDATA[A systems-level look at LLM scalability through the lens of transient load spikes — the unglamorous capacity-planning problem that determines whether a service stays up during a usage spike.]]></description>
+    </item>
+  </channel>
+</rss>
